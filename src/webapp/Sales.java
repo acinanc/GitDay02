@@ -6,4 +6,5 @@ public class Sales {
     //gold membership discount
 
     //seasonal discount updated
+    //added holiday sales
 }
