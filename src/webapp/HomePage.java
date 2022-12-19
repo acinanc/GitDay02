@@ -7,4 +7,5 @@ public class HomePage {
     //settings
 
     //update logo
+    //update the date and version
 }
