@@ -5,4 +5,6 @@ public class HomePage {
     //new menu
     // library
     //settings
+
+    //update logo
 }
