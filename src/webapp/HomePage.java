@@ -10,7 +10,10 @@ public class HomePage {
     //update the date and version
 
     //terminal usage updated
-    //gitday 2 wip
+    //gitday 2 wipewn
+    //new update on Can
+    //terminal works well
+
 }
 
 
