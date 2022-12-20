@@ -8,4 +8,8 @@ public class HomePage {
 
     //update logo
     //update the date and version
+
+    //terminal usage updated
 }
+
+
