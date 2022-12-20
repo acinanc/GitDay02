@@ -10,6 +10,7 @@ public class HomePage {
     //update the date and version
 
     //terminal usage updated
+    //gitday 2 wip
 }
 
 
